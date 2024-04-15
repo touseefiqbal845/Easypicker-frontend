@@ -1,7 +1,6 @@
 
-# CEasypicker MERN Stack E-commerce Project - Frontend Repository
+# 🔥Easypicker MERN Stack E-commerce Project - Frontend Repository
 
-🔥🔥 WATCH HERE >> [Project Video](https://youtu.be/LH-S5v-D3hA)
 
 MERN E-Commerce (in Hindi) with Admin Panel, Redux Toolkit, Stripe Payment, Cloud Deployment, Email Invoice, and many features (complete features given below in Description )
 
