@@ -1,0 +1,50 @@
+.custom-font {
+    font-size: 19px;
+    font-weight: bold;
+    margin-right: 4px;
+}
+
+.footer-top {
+    margin-top: 150px;
+}
+
+.logo {
+    width: 295px;
+    height: 66px;
+    margin-left: -100px;
+}
+
+.logo-static {
+    width: 260px;
+    height: 66px;
+    margin-left: 70px;
+}
+
+@media (max-width: 1250px) {
+    .custom-font {
+        font-size: 19px;
+    }
+
+    .logo {
+        width: 100px;
+        height: 40px;
+        margin-left: 20px;
+    }
+
+    .edit-admin {
+        margin-left: 0px;
+        padding-left:1rem;
+        padding-right: 2rem;
+    }
+}
+
+@media (max-width: 900px) {
+    .icons {
+        display: none !important;
+    }
+    .edit-admin {
+        margin-left: 0px;
+        padding-left:1rem;
+        padding-right: 2rem;
+    }
+}
